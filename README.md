@@ -9,8 +9,13 @@
 > This platform aims to provide online courses and training, on several categories with different plans (monthly, yearly or biannual).
 
 > Realized with   : Laravel 7 + VueJS
-> payment gateway : Stripe
+
+> Payment gateway : Stripe
+
 > Video's host    : Vimeo
+
+<div style="text-align:center"><img src="https://user-images.githubusercontent.com/46675705/96336744-f0161b80-1079-11eb-81c7-eeb58a6c90ca.png" /></div>
+
 
 ## Install
 
@@ -37,6 +42,8 @@ php artisan serve
 
 * Github: [@mr-ilyass](https://github.com/mr-ilyass)
 * LinkedIn: [@ilyass-asri](https://linkedin.com/in/ilyass-asri)
+* Facebook: [@ilyass-asri](https://www.facebook.com/asr.ilyass)
+
 
 ## Show your support
 
